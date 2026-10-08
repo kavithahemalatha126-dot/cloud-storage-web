@@ -1,0 +1,2 @@
+# cloud-storage-web
+&lt;html> &lt;head>     &lt;title>Using Lists&lt;/title>     &lt;style>         h1 {             color: red;         }          li {             color: black;         }     &lt;/style> &lt;/head>  &lt;body>     &lt;h1>Benefits of Cloud Storage&lt;/h1>      &lt;ul>         &lt;li>We can store data using the Internet.&lt;/li>         &lt;li>It is used for data&lt;/li>     &lt;/ul> &lt;/body> &lt;/html>
